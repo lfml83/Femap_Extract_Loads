@@ -10,7 +10,6 @@ For all the examples shown in this manual cames from the analysis from this stif
 The Panel contains stiffeners along it splitting the panel in another four panels.
 
             
-
 #### def <code style="color:red">elres(<code style="color:blue">[ids]</code>):</code>
 This function is responsible for extracting the loads from the generated model including all load cases
 
@@ -25,7 +24,8 @@ Panel1Nxy=[5,4,,10,9,'Ny'] - all the results for membrane force in xy direction<
 
 **_program input :_** 
 
-![input.png](attachment:input.png)
+<img src="https://github.com/lfml83/Femap_Extract_Loads/blob/main/input.png?raw=true">
+
 
 
 The kind of loads implementeds so far:<br>
