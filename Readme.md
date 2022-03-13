@@ -4,7 +4,8 @@ This program is responsible for extracting loads from finite elements generated 
 
 For all the examples shown in this manual cames from the analysis from this stiffined panel described below:
 
-![panel.png](attachment:panel.png)
+
+<img src = "https://github.com/lfml83/Femap_Extract_Loads/blob/main/panel.png?raw=true">
 
 
 The Panel contains stiffeners along it splitting the panel in another four panels.
@@ -51,16 +52,16 @@ The kind of loads implementeds so far:<br>
 - Another advantage to use elres function is to perform operations and take the results from this operations. To illustrate an example below, a joint calculation is shown.
 
 
-![joint.png](attachment:joint.png)
+<img src = "https://github.com/lfml83/Femap_Extract_Loads/blob/main/joint.png?raw=true">
 
 
 **_program input :_** 
 
 
-![Joint_input_result.png](attachment:Joint_input_result.png)
+<img src = "https://github.com/lfml83/Femap_Extract_Loads/blob/main/Joint_input_result.png?raw=true">
 
 
 **_program input :_** 
 
+<img src = "https://github.com/lfml83/Femap_Extract_Loads/blob/main/Joint_output_result.png?raw=true">
 
-![Joint_output_result.png](attachment:Joint_output_result.png)
