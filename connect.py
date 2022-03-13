@@ -5,7 +5,6 @@ Created on Sat Mar  5 16:35:49 2022
 @author: luizf
 """
 
-
 import pythoncom
 import PyFemap
 from PyFemap import constants
